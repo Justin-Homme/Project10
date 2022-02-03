@@ -1,0 +1,50 @@
+Book
+Star trek chronology: The history of the future
+Michael
+Okuda
+Denise
+Okuda
+false
+Pocket Books
+1993
+New York
+NY
+Journal
+Intuitive Versus Rational Judgment and the Role of Stereotyping in the Human Condition: Kirk or Spock
+Patricia
+Devine
+Steven
+Sherman
+false
+Psychological Inquiry
+1992
+3
+2
+153
+159
+10.1207/s15327965pli0302_13
+Journal
+Real-time procedural textures
+John
+Rhoades
+Greg
+Turk
+true
+Proceedings of the 1992 Symposium on Interactive 3D Graphics
+1992
+1
+1
+95
+100
+10.1145/147156.147171
+Book
+Refactoring
+Martin
+Fowler
+
+
+false
+Addison-Wesley
+1999
+Reading
+MA
